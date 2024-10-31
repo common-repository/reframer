@@ -1,0 +1,34 @@
+{
+  "name": "reframer",
+  "version": "1.0.0",
+  "description": "Reframer makes unresponsive elements responsive by scaling at a fixed ratio.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohandere/reframer.git"
+  },
+  "keywords": [
+    "js",
+    "iframes",
+    "fluid",
+    "responsive",
+    "video",
+    "fitvids",
+    "youtube",
+    "embeds"
+  ],
+  "author": "Mohan Dere",
+  "license": "GPLv3 or later",
+  "bugs": {
+    "url": "https://github.com/mohandere/reframer/issues"
+  },
+  "homepage": "https://github.com/mohandere/reframer#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.2",
+    "grunt-contrib-uglify": "^2.0.0"
+  }
+}
